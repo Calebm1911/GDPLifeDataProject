@@ -8,7 +8,7 @@ Life Expectancy Project
 
 ## Overview 
 
-The primary goal of this project is to analyze the correlation between Gross Domestic Product (GDP) per capita and life expectancy and to create a model that represents this relationship. This analysis is driven by the observation that life expectancy varies significantly between different countries, often linked to the wealth and development status of those countries. With data sources providing life expectancy data for the years 2000, 2010, 2015, and 2019, we aim to explore how changes in GDP correlate with changes in life expectancy.
+The primary goal of this project is to analyze the correlation between Gross Domestic Product (GDP) per capita and life expectancy and to create a model that represents this relationship. This analysis is driven by the observation that life expectancy varies significantly between different countries, often linked to the wealth and development status of those countries. With data sources providing life expectancy data for the years 2000, 2010, 2015, and 2019, we aim to explore how changes in GDP correlate with changes in life expectancy. ProjectSummary file has powerpoint with some images.
 
 ## Ingestion
 
