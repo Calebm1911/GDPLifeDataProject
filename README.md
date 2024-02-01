@@ -8,7 +8,19 @@ Life Expectancy Project
 
 ## Overview 
 
-The primary goal of this project is to analyze the correlation between Gross Domestic Product (GDP) per capita and life expectancy and to create a model that represents this relationship. This analysis is driven by the observation that life expectancy varies significantly between different countries, often linked to the wealth and development status of those countries. With data sources providing life expectancy data for the years 2000, 2010, 2015, and 2019, we aim to explore how changes in GDP correlate with changes in life expectancy. ProjectSummary file has powerpoint with graphs.
+The primary goal of this project is to analyze the correlation between Gross Domestic Product (GDP) per capita and life expectancy and to create a model that represents this relationship. This analysis is driven by the observation that life expectancy varies significantly between different countries, often linked to the wealth and development status of those countries. With data sources providing life expectancy data for the years 2000, 2010, 2015, and 2019, we aim to explore how changes in GDP correlate with changes in life expectancy. The ProjectSummary file is a powerpoint with a brief overview and some graphs.
+
+## Images
+
+There are a few images in this repository.
+
+ArchitectureDiagram - Depicts the project's architectural overview.
+
+RegressionGraph - A graph of all points with life expectancy as the Y axis, and GDP as the X axis, with the regression line graphed. 
+
+PowerBINormalizedChartTop
+&
+PowerBINormalizedChartBottom - Screenshots from a PowerBI chart graphing the countries with the life expectancy and GDP normalized, as a way of displaying the correlation. 0 is the mean for both, so a positive graph is greater than the mean, and a negative is less than the mean. In the ChartBottom file you will notice all countries are below average in both graphs, while the top end has more variation. The PowerBI file is also in the repository.
 
 ## Ingestion
 
